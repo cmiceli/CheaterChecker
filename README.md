@@ -5,4 +5,5 @@ It is simple and can be used to check whether your email address has been leaked
 indicate whether it's time to come clean or continue your ways. Ultimately it is your choice.
 
 To get a better understanding on how this all works I recommend reading the code. There are no dependencies so it should just be a matter of cloning and then running:
+
 `python3 cheating.py lol@example.com`
