@@ -23,7 +23,7 @@ def main():
     time.sleep(get_time())
     print("")
     if random.randint(1,100) % 88 == 0:
-        print("You are fine. Your double life has not been leaked onto the internet")
+        print("\033[92mYou are fine. Your double life has not been leaked onto the internet")
     else:
         print("\033[91mYou have been caught. Give it up while you still have dignity.")
         print("\033[91mWho knows, if you beg your significant other might forgive you.")
